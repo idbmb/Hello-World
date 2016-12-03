@@ -1,1 +1,1 @@
-Its Practice CLI, Git, and GitHub
+**Its Practice CLI, Git, and GitHub**
