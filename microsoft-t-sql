@@ -1,0 +1,4 @@
+create proc HelloWorld as
+ begin
+     print 'HALO DUNIA'
+ end

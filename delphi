@@ -1,0 +1,10 @@
+program HaloDunia;
+
+{$APPTYPE CONSOLE}
+
+uses
+  SysUtils;
+
+begin
+  writeln('Halo Dunia');
+end.

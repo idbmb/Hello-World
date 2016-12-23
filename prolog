@@ -1,0 +1,1 @@
+write('Halo dunia'),nl.

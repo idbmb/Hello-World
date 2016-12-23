@@ -1,0 +1,4 @@
+create or replace procedure HelloWorld is
+ begin
+     dbms_out.put_line('HALO DUNIA');
+ end;
