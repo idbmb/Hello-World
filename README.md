@@ -1,5 +1,3 @@
-# Introduction
-
 ## Syntax Collection
 
 ### Hello World
